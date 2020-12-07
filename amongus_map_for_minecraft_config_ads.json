@@ -20,7 +20,7 @@
     "banner_native_ads_main_fb":"YOUR_PLACEMENT_ID",
     "native_ads_main_fb":"YOUR_PLACEMENT_ID",
     "fluryId":"hehe",
-    "isShowAds":true
+    "isShowAds":false
   }, 
   "app_exists": {
     "id": "com.king.candycrushsaga",
