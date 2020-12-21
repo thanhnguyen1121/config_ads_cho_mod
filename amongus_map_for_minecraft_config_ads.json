@@ -12,17 +12,17 @@
     "inter_main_new": "",
     "onlyAdmod": false,
     "onlyFB": true,
-    "fb_banner": "312369146656168_312369693322780",
-    "fb_inter": "312369146656168_312369586656124",
-    "fb_banner_main":"312369146656168_312369693322780",
-    "fb_inter_main":"312369146656168_312369749989441"
+    "fb_banner": "720370308883742_720375498883223",
+    "fb_inter": "720370308883742_720375372216569",
+    "fb_banner_main":"720370308883742_720375238883249",
+    "fb_inter_main":"720370308883742_720375615549878"
   },
   "app_exists": {
     "id": "com.king.candycrushsaga",
     "is_exists": true,
     "is_show_more": true,
     "isLoading": false,
-    "isShowAds": false,
+    "isShowAds": true,
     "onlyAdsMe": false,
     "bg": "https://play-lh.googleusercontent.com/8gaz8rbPJ7hCtl-kU1mQwm04-awVv5TDSJjEfmEKRDp1hipKn2nlRmLKEmSDib7uqCk=w1440-h620-rw"
   },
