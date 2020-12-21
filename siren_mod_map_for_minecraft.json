@@ -12,16 +12,18 @@
     "inter_main_new": "",
     "onlyAdmod": true,
     "onlyFB": false,
-    "fb_banner": "",
-    "fb_inter": ""
+    "fb_banner": "205203581266848_205204217933451",
+    "fb_inter": "205203581266848_205204394600100",
+    "fb_banner_main":"205203581266848_205203864600153",
+    "fb_inter_main":"205203581266848_205204044600135"
   },
   "app_exists": {
     "id": "com.king.candycrushsaga",
     "is_exists": true,
     "is_show_more": true,
     "isLoading": false,
-    "isShowAds": false,
-    "onlyAdsMe": false,
+    "isShowAds": true,
+    "onlyAdsMe": true,
     "bg": "https://play-lh.googleusercontent.com/8gaz8rbPJ7hCtl-kU1mQwm04-awVv5TDSJjEfmEKRDp1hipKn2nlRmLKEmSDib7uqCk=w1440-h620-rw"
   },
   "apps": [
